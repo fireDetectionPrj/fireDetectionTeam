@@ -1,3 +1,3 @@
-# fireDetectionTeam
+# Fire Detection Group Project
 
 Helloooo
