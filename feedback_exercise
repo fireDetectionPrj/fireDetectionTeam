@@ -1,0 +1,15 @@
+Peer Feedback: (Christopher Jones, Grace Siu,
+Consider looking into the R package spBayes and see if their is an implementation in python 
+  - this is a good package for created models for point referenced spatial data.
+Consider looking at other data that may be available for the same landscape such as humidity, rain and vegetation
+
+How we will address this feedback:
+The spBayes package will be looked into a litter further to see if it would be an effective way to create a model for the data,
+but currently there are many other methods to create models for this type of data that may be easier to implement and more 
+convenient. However, this feedback will be taken into consideration and we will see if this package is easy to implement into python
+and how effective it may be.
+
+Quality of Feedback:
+The feedback was helpful, but more in the sense that discussing the project helped solidify what our plan of action was going
+forward. There were not really any issues raised by the other team that needed to be addressed, but they did provide helpful
+comments and suggestions going forward.
