@@ -1,0 +1,20 @@
+Ethical Considerations – post project completion
+
+The ethical considerations in this project can be quite extensive depending on the use of its work. We scraped our data from 
+EarthExplorer’s API. For the scope of this project we haven’t pulled large amounts of files as each one requires a lot of processing to
+analyse. However if scaled up, some people may find it intrusive that you are collecting images of private property, and methods should
+be implemented into taking away images if requested by individuals.
+
+People relevant to the project include the local communities and services that could benefit from the work (e.g. firefighting services).
+Given the focus of the project, it aligns quite well with their goals as well. It could provide useful information and protect local
+communities. It can also be used as a quick alarm system to quickly alert local communities of danger.
+
+If this project were to be extended, it could be set up to alert any nearby homes if it detects fire or connected to a text alert system
+in place. For this, a very high level of accuracy would need to be achieved as it could send out false alarms or even worse, not detect
+fire when it is present. 
+
+Secondly, it may be useful in counties with less capable infrastructure or with large areas needing to be covered without needing for
+people present.
+
+Given the nature of this work, for it to be extended you would need it to have near perfect results, which can be difficult given the 
+difficulties, however it could prove to be very useful if achieved.
